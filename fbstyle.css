@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+.facebook-container{
+    text-align: center;
+    font-family: Verdana;
+    color: rgb(24,119,242);
+    padding-top: 50px;
+}
+.txtfacebook{
+    color: black;
+    margin-top: -20px;
+}
+.box-container{
+    height: 300px;
+    width: 320px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2), -2px -2px 10px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    border-radius: 7px;
+}
+.input{
+    width: 290px;
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    /* box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2), -2px -2px 10px rgba(0, 0, 0, 0.2); */
+}
+.login-button{
+    width: 297px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 15px;
+    background: rgb(24,119,242);
+    font-family: Verdana;
+    font-weight: bolder;
+    font-size: 15px;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+
+.login-button:hover{
+    background: rgb(54, 95, 172)
+}
+.link-container{
+    margin-top: 15px;
+    text-align: center;
+
+}
+.link{
+    text-decoration: none;
+    color: rgb(24,119,242);
+    font-family: Verdana;
+    font-size: 13px;
+}
+.create-new-account{
+    margin-top: 50px;
+    
+}
+.create{
+    width: 150px;
+    height: 35px;
+    font-weight: bolder;
+    color: white;
+    background: #39ED51;
+    border: none;
+    border-radius: 5px;
+
+}
+.create:hover{
+    background: #309b3e;
+
+
+
+
+}
+.paragraph{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 12px;
+    padding-top: 25px;
+
+}
+span{
+    font-weight: bold;
+}
